@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #EAC926;
+}
+p{
+    font-size: 12px;
+}
+#lista{
+    font-size: 12px;
+}
+#visita{
+    font-size: 24px;
+}
+#ofertas{
+    font-size: 24px;
+}
+.precios{
+    font-size: 18px;
+}
+.descuentos{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
